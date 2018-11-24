@@ -1,8 +1,7 @@
 # Ecommerce-prototype2
 
 
-This is a prototype of an ecommerce website. The functions of this website are fairly limited. 
-Please read the instructions below carefully to fully display the 
+This is a prototype of an ecommerce website. Note that the functions of this website are fairly limited. 
 
 #Instructions to use the website
 
